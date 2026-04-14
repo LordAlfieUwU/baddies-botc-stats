@@ -9,14 +9,10 @@ export const NORMAL_SCRIPTS = new Set([
     "trouble brewing",
     "bad moon rising",
     "sects & violets",
-    "trouble in violets",
-    "trouble in legion",
-    "hide & seek",
-    "trouble brewing on expert mode",
-    "trained killer",
-    "irrational behavior",
-    "binary supernovae",
-    "everybody can play"
+    "trouble writhing",
+    "tough guessing",
+    "pies baking",
+];
 ]);
 
 // List of commonly used game modes/scripts for dropdown menus
@@ -24,18 +20,9 @@ export const COMMON_SCRIPTS = [
     "Trouble Brewing",
     "Bad Moon Rising",
     "Sects & Violets",
-    "Trouble in Violets",
-    "No Greater Joy",
-    "Over the River",
-    "Laissez un Faire",
-    "Trouble in Legion",
-    "Hide & Seek",
-    "Trouble Brewing on Expert Mode",
-    "Trained Killer",
-    "Irrational Behavior",
-    "Binary Supernovae",
-    "A Leech of Distrust",
-    "Everybody Can Play",
+    "Trouble Writhing",
+    "Tough Guessing",
+    "Pies Baking",
 ];
 
 // Mapping of normalized character names to their role types
