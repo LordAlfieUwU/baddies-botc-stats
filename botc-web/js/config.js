@@ -12,7 +12,6 @@ export const NORMAL_SCRIPTS = new Set([
     "trouble writhing",
     "tough guessing",
     "pies baking",
-];
 ]);
 
 // List of commonly used game modes/scripts for dropdown menus
