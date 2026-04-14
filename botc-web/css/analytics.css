@@ -248,22 +248,22 @@
     color: #34d399;
 }
 
-.role-type-badge.outsider {
+.role-type-badge.outsiders {
     background: rgba(96, 165, 250, 0.2);
     color: #60a5fa;
 }
 
-.role-type-badge.minion {
+.role-type-badge.minions {
     background: rgba(251, 146, 60, 0.2);
     color: #fb923c;
 }
 
-.role-type-badge.demon {
+.role-type-badge.demons {
     background: rgba(239, 68, 68, 0.2);
     color: #ef4444;
 }
 
-.role-type-badge.traveller {
+.role-type-badge.travellers {
     background: rgba(167, 139, 250, 0.2);
     color: #a78bfa;
 }
