@@ -17,14 +17,9 @@ const NORMAL_SCRIPTS = new Set([
     "trouble brewing",
     "bad moon rising",
     "sects & violets",
-    "trouble in violets",
-    "trouble in legion",
-    "hide & seek",
-    "trouble brewing on expert mode",
-    "trained killer",
-    "irrational behavior",
-    "binary supernovae",
-    "everybody can play"
+    "trouble writhing",
+    "tough guessing",
+    "pies baking"
 ]);
 
 // Character role type mapping
